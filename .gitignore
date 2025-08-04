@@ -1,0 +1,32 @@
+# Maven target directory
+/target/
+
+# Logs
+*.log
+logs/
+
+# IDE specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+.project
+.classpath
+.settings/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Test reports (generated at runtime)
+test-output/
+*.html
+*.xml
+
+# Extent report outputs
+/reports/extent-*.html
+/reports/screenshots/
+
+# Optional: exclude compiled classes
+*.class
+ 
