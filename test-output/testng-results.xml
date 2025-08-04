@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-04T16:07:30 IST" name="CURA Test Suite" finished-at="2025-08-04T16:07:38 IST" duration-ms="8036">
+  <suite started-at="2025-08-04T16:37:32 IST" name="CURA Test Suite" finished-at="2025-08-04T16:37:40 IST" duration-ms="8126">
     <groups>
     </groups>
-    <test started-at="2025-08-04T16:07:30 IST" name="Negative Login Test" finished-at="2025-08-04T16:07:36 IST" duration-ms="6107">
+    <test started-at="2025-08-04T16:37:32 IST" name="Negative Login Test" finished-at="2025-08-04T16:37:39 IST" duration-ms="6548">
       <class name="tests.InvalidLoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.InvalidLoginTest@3542162a]" started-at="2025-08-04T16:07:30 IST" name="setUp" finished-at="2025-08-04T16:07:35 IST" duration-ms="5058" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.InvalidLoginTest@7103cb56]" started-at="2025-08-04T16:37:32 IST" name="setUp" finished-at="2025-08-04T16:37:37 IST" duration-ms="5000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testInvalidLogin()[pri:0, instance:tests.InvalidLoginTest@3542162a]" started-at="2025-08-04T16:07:35 IST" name="testInvalidLogin" finished-at="2025-08-04T16:07:36 IST" duration-ms="833" status="PASS">
+        <test-method signature="testInvalidLogin()[pri:0, instance:tests.InvalidLoginTest@7103cb56]" started-at="2025-08-04T16:37:37 IST" name="testInvalidLogin" finished-at="2025-08-04T16:37:39 IST" duration-ms="1364" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testInvalidLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.InvalidLoginTest@3542162a]" started-at="2025-08-04T16:07:36 IST" name="tearDown" finished-at="2025-08-04T16:07:36 IST" duration-ms="183" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.InvalidLoginTest@7103cb56]" started-at="2025-08-04T16:37:39 IST" name="tearDown" finished-at="2025-08-04T16:37:39 IST" duration-ms="148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.InvalidLoginTest -->
     </test> <!-- Negative Login Test -->
-    <test started-at="2025-08-04T16:07:30 IST" name="Valid Appointment Test" finished-at="2025-08-04T16:07:38 IST" duration-ms="8036">
+    <test started-at="2025-08-04T16:37:32 IST" name="Valid Appointment Test" finished-at="2025-08-04T16:37:40 IST" duration-ms="8126">
       <class name="tests.BookAppointmentTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.BookAppointmentTest@3a0d172f]" started-at="2025-08-04T16:07:30 IST" name="setUp" finished-at="2025-08-04T16:07:36 IST" duration-ms="5288" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.BookAppointmentTest@614df0a4]" started-at="2025-08-04T16:37:32 IST" name="setUp" finished-at="2025-08-04T16:37:38 IST" duration-ms="5454" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testBookAppointmentFlow()[pri:0, instance:tests.BookAppointmentTest@3a0d172f]" started-at="2025-08-04T16:07:36 IST" name="testBookAppointmentFlow" finished-at="2025-08-04T16:07:38 IST" duration-ms="2723" status="PASS">
+        <test-method signature="testBookAppointmentFlow()[pri:0, instance:tests.BookAppointmentTest@614df0a4]" started-at="2025-08-04T16:37:38 IST" name="testBookAppointmentFlow" finished-at="2025-08-04T16:37:40 IST" duration-ms="2641" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBookAppointmentFlow -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BookAppointmentTest@3a0d172f]" started-at="2025-08-04T16:07:38 IST" name="tearDown" finished-at="2025-08-04T16:07:38 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BookAppointmentTest@614df0a4]" started-at="2025-08-04T16:37:40 IST" name="tearDown" finished-at="2025-08-04T16:37:40 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
