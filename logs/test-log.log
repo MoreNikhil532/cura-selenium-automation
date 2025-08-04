@@ -1,0 +1,271 @@
+2025-08-04 15:22:53 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:22:53 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Starting test setup...
+2025-08-04 15:23:03 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:23:03 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:23:03 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Navigated to CURA Healthcare site
+2025-08-04 15:23:03 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:23:03 [TestNG-tests-1] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:23:03 [TestNG-tests-1] INFO  pages.LoginPage - Entering password
+2025-08-04 15:23:04 [TestNG-tests-1] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:23:04 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:23:04 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:23:04 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:23:04 [TestNG-tests-2] INFO  pages.LoginPage - Entering username: wrongUser
+2025-08-04 15:23:04 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Tearing down WebDriver
+2025-08-04 15:23:40 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Starting test setup...
+2025-08-04 15:23:40 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:23:48 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Navigated to CURA Healthcare site
+2025-08-04 15:23:48 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:23:48 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:23:49 [TestNG-tests-2] INFO  pages.LoginPage - Entering username: wrongUser
+2025-08-04 15:23:49 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:23:49 [TestNG-tests-2] INFO  pages.LoginPage - Entering password
+2025-08-04 15:23:49 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Tearing down WebDriver
+2025-08-04 15:25:47 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:25:52 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:25:53 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:25:53 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:25:53 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:25:53 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:25:53 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:25:53 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:25:54 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:25:54 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 15:25:55 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 15:25:55 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:27:44 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:27:50 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:27:50 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:27:50 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:27:50 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:27:50 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:27:50 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:27:50 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:27:51 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:27:51 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:29:24 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:29:29 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:29:29 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:29:29 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:29:29 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:29:29 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:29:29 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:29:29 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:29:30 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:29:30 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:29:55 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:30:00 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:30:00 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:30:01 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:30:01 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:30:01 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:30:01 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:30:01 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:30:01 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:30:01 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:33:08 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:33:16 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:33:16 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:33:17 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:33:17 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:33:17 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:33:17 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:33:18 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:33:18 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:33:18 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 15:33:19 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 15:33:19 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:35:33 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:35:39 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:35:39 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:35:39 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:35:39 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:35:39 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:35:39 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:35:40 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:35:40 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:35:40 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:36:56 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:37:00 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:37:00 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:37:01 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:37:01 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:37:01 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:37:01 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:37:01 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:37:01 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:37:01 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:43:13 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:43:18 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:43:18 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:43:19 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:43:19 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:43:19 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:43:19 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:43:19 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:43:19 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:43:19 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:44:47 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:44:52 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:44:52 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:44:52 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:44:52 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:44:52 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:44:52 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:44:52 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:44:53 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:44:53 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 15:44:54 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 15:50:54 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:51:00 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:51:00 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:51:01 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:51:01 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:51:01 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:51:01 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:51:01 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:51:02 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:51:02 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:51:47 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:51:52 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:51:52 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:51:53 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:51:53 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:51:53 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:51:53 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:51:53 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:51:54 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:51:54 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 15:51:54 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 15:54:24 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:54:39 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:55:47 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:55:53 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:55:53 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:55:53 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:55:53 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:55:53 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:55:53 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:55:54 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:55:54 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:55:54 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 15:55:55 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 15:56:18 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:56:23 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:56:23 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:56:24 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:56:24 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:56:24 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:56:24 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:56:24 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:56:24 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:56:24 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:56:41 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:56:45 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:56:45 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:56:46 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:56:46 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:56:46 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:56:46 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:56:46 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:56:46 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:56:46 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 15:58:36 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:58:42 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:58:42 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:58:42 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:58:42 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:58:42 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:58:42 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:58:42 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:58:42 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 15:59:24 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:59:29 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:59:29 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:59:30 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:59:30 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:59:30 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:59:30 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:59:30 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:59:31 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:59:52 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 15:59:56 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 15:59:56 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 15:59:57 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 15:59:57 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 15:59:57 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 15:59:57 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 15:59:58 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 15:59:58 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 15:59:58 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 15:59:59 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 16:03:31 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 16:03:39 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 16:03:39 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 16:03:39 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 16:03:39 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 16:03:40 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 16:03:40 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:03:40 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 16:03:40 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 16:03:43 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 16:03:44 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 16:03:47 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 16:05:25 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 16:05:29 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 16:05:29 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 16:05:30 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 16:05:30 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 16:05:30 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 16:05:30 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:05:30 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 16:05:30 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/profile.php#login
+2025-08-04 16:05:30 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 16:06:14 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 16:06:19 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 16:06:19 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 16:06:20 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 16:06:20 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 16:06:20 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 16:06:20 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:06:21 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 16:06:21 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 16:06:21 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 16:06:21 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 16:06:22 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 16:06:41 [main] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 16:06:49 [main] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 16:06:49 [main] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 16:06:50 [main] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 16:06:50 [main] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 16:06:50 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 16:06:50 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:06:51 [main] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 16:06:51 [main] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 16:06:51 [main] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 16:06:51 [main] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 16:06:52 [main] INFO  tests.BookAppointmentTest - Tearing down WebDriver
+2025-08-04 16:07:04 [main] INFO  tests.InvalidLoginTest - Starting test setup...
+2025-08-04 16:07:13 [main] INFO  tests.InvalidLoginTest - Navigated to CURA Healthcare site
+2025-08-04 16:07:14 [main] INFO  pages.LoginPage - Entering username: wrongUser
+2025-08-04 16:07:14 [main] INFO  pages.LoginPage - Entering password
+2025-08-04 16:07:14 [main] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:07:15 [main] INFO  tests.InvalidLoginTest - Tearing down WebDriver
+2025-08-04 16:07:30 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Starting test setup...
+2025-08-04 16:07:30 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Starting test setup...
+2025-08-04 16:07:35 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Navigated to CURA Healthcare site
+2025-08-04 16:07:36 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Navigated to CURA Healthcare site
+2025-08-04 16:07:36 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Starting test: Book Appointment
+2025-08-04 16:07:36 [TestNG-tests-2] INFO  pages.LoginPage - Entering username: wrongUser
+2025-08-04 16:07:36 [TestNG-tests-2] INFO  pages.LoginPage - Entering password
+2025-08-04 16:07:36 [TestNG-tests-2] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:07:36 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Clicked on 'Make Appointment'
+2025-08-04 16:07:36 [TestNG-tests-1] INFO  pages.LoginPage - Entering username: John Doe
+2025-08-04 16:07:36 [TestNG-tests-2] INFO  tests.InvalidLoginTest - Tearing down WebDriver
+2025-08-04 16:07:36 [TestNG-tests-1] INFO  pages.LoginPage - Entering password
+2025-08-04 16:07:36 [TestNG-tests-1] INFO  pages.LoginPage - Clicking Login button
+2025-08-04 16:07:37 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Logged in successfully
+2025-08-04 16:07:37 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Current URL after login: https://katalon-demo-cura.herokuapp.com/#appointment
+2025-08-04 16:07:37 [TestNG-tests-1] INFO  pages.AppointmentPage - Filling out appointment form
+2025-08-04 16:07:38 [TestNG-tests-1] INFO  pages.AppointmentPage - Clicked on Book Appointment
+2025-08-04 16:07:38 [TestNG-tests-1] INFO  tests.BookAppointmentTest - Tearing down WebDriver
